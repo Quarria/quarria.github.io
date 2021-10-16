@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quarria.github.io</id>
     <title>Gridea</title>
-    <updated>2021-10-16T03:11:38.898Z</updated>
+    <updated>2021-10-16T07:34:11.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quarria.github.io"/>
     <link rel="self" href="https://quarria.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://quarria.github.io/images/avatar.png</logo>
     <icon>https://quarria.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[你好，S11]]></title>
+        <id>https://quarria.github.io/post/s11/</id>
+        <link href="https://quarria.github.io/post/s11/">
+        </link>
+        <updated>2021-10-16T07:23:22.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<blockquote>
+<p>随意记录一下，记录于2021年10月16日<br>
+FPX以最耻辱的方式，结束了S11，不过多做评价，菜是原罪✈️✈️<br>
+<img src="https://quarria.github.io/post-images/1634369227504.jfif" alt="" loading="lazy"></p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://quarria.github.io/post/hello-gridea/</id>
